@@ -35,6 +35,11 @@ pyvenv.cfg
 # Serge Files
 *.txt
 *.vcf
+*.csv
+*.gz
+*.xxx
+*.tbi
+*.xlsx
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
